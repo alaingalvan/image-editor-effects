@@ -1,0 +1,31 @@
+{
+  "name": "image-editor-effects",
+  "version": "1.0.0",
+  "description": "An example of image editor effects for layers and color correction found in apps like Photoshop or GIMP.",
+  "main": "src/script.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alaingalvan/image-editor-effects.git"
+  },
+  "keywords": [
+    "image",
+    "editor",
+    "effects"
+  ],
+  "author": "Alain Galvan",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/alaingalvan/image-editor-effects/issues"
+  },
+  "homepage": "https://github.com/alaingalvan/image-editor-effects#readme",
+  "devDependencies": {
+    "typescript": "^4.x.x"
+  },
+  "dependencies": {
+    "express": "^4.x.x"
+  }
+}
