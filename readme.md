@@ -4,8 +4,6 @@
 
 [![License][license-img]][license-url]
 [![Codepen][codepen-img]][codepen-url]
-[![Dependency Status][david-img]][david-url]
-[![devDependency Status][david-dev-img]][david-dev-url]
 
 Image processing effects used in image editors like **Adobe Photoshop** or **GIMP** are used to composite different layers and adjust the overall appearance of an image. These effects build upon research in areas such as signal processing, statistics, and mathematical analysis, and applies them to visual effects and postprocessing.
 
@@ -35,9 +33,5 @@ This project is unlicensed, feel free to use it however you would like.
 
 [license-img]: https://img.shields.io/:license-unlicense-blue.svg?style=flat-square
 [license-url]: https://unlicense.org/
-[david-url]: https://david-dm.org/alaingalvan/image-editor-effects
-[david-img]: https://david-dm.org/alaingalvan/image-editor-effects/status.svg?style=flat-square
-[david-dev-url]: https://david-dm.org/alaingalvan/image-editor-effects#info=devDependencies
-[david-dev-img]: https://david-dm.org/alaingalvan/image-editor-effects/dev-status.svg?style=flat-square
 [codepen-img]: https://img.shields.io/:demo-codepen-1e1f26.svg?style=flat-square
 [codepen-url]: https://codepen.io/alaingalvan/pen/eQeqwE
