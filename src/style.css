@@ -7,3 +7,17 @@ body {
   height: 100vh;
   background: #000;
 }
+
+#game {
+  display: block;
+}
+
+#debug {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 8px;
+  color: #fff;
+  font-family: sans-serif;
+  font-size: 13px;
+}
